@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @userleonardolopez
 - 👀 I’m interested in *full-stack* application development
-- 🌱 I’m currently learning *JEE* (Jakarta)
+- 🌱 I’m currently learning *GraphQL*
 - 💞️ I’m looking to collaborate on *technological and medical projects* to improve our QoL
 - 📫 You can reach me through: [leonardolopez.dev@outlook.com](mailto:leonardolopez.dev@outlook.com) or [LinkedIn](https://www.linkedin.com/in/userleonardolopez/)
 - 😄 Pronouns: He/Him
